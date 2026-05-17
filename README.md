@@ -35,10 +35,10 @@ If you find a better approach, feel free to improve it yourself.
 
 # Credits & Shoutout ❤️
 
-Special thanks to the original creator/youtuber who provided these practice problems.
+Special thanks to the original creator/youtuber who provided these practice problems. He provided a google docs document with 87 problems i added 13 more to it and convert it to ipynb format so anyone can practice easily.
 
 YouTube Channel / Video Link:  
-PASTE_YOUR_LINK_HERE
+[https://youtu.be/szkZ1DwABUs?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4]
 
 Please support the original creator.
 
